@@ -1,0 +1,71 @@
+1;Atletico de Madrid
+2;Barcelona
+3;Real Madrid
+4;Athletic Club
+5;Sevilla
+6;Villarreal
+7;Real Sociedad
+8;Valencia
+9;Celta de Vigo
+10;Levante
+11;Malaga
+12;Rayo Vallecano
+13;Getafe
+14;Espanyol
+15;Granada
+16;Elche
+17;Almeria
+18;Osasuna
+19;Real Valladolid
+20;Real Betiss
+21;Real Betis
+22;Eibar
+23;Real Sporting
+24;Las Palmas
+25;Cordoba
+26;Girona
+27;Leganes
+28;Real Murcia
+29;Real Zaragoza
+30;Alaves
+31;Huesca
+32;Deportivo de La Coruna
+33;Cadiz
+34;Mallorca
+35;Fuenlabrada
+36;Alcorcon
+37;Numancia
+38;Tenerife
+39;Albacete
+40;Real Oviedo
+41;Hercules
+42;Barcelona B
+43;Real Jaen
+44;Lugo
+45;Mirandes
+46;Ponferradina
+47;R. Racing Club
+48;Extremadura
+49;Nastic
+50;Badalona Futur
+51;Athletic Club B
+52;Cartagena
+53;Reus FCR
+54;Castellon
+55;Sabadell
+56;UCAM Murcia
+57;UD Logrones
+58;Sevilla B
+59;Burgos CF
+60;UD Ibiza
+61;Amorebieta
+62;R. Sociedad B
+63;Cultural Leonesa
+64;Lorca
+65;Rayo Majadahonda
+66;Andorra
+67;Villarreal B
+68;Racing de Ferrol
+69;Eldense
+70;Real Madrid B
+71;Recreativo de Huelva
