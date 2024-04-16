@@ -1,8 +1,3 @@
----
-tags: proyect ia data-mining selenium 
-name: QuiniAI
-collaborators: Christian Adrian
----
 Este proyecto consiste en tomar los datos de la primera y segunda división española desde el año 2013, los cuales servirán para entrenar una IA que como salida indique una predicción para la quiniela de la siguiente jornada.
 
 Los datos que se tendrán en cuenta para cada equipo ante un partido saldrán de las diferentes clasificaciones de la jornada previa al partido:
